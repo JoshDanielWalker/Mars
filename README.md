@@ -1,2 +1,2 @@
 # Mars
-# Assets - CDN
+# Assets - API
