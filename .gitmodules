@@ -1,0 +1,4 @@
+[submodule "Mars-Core"]
+	path = Mars-Core
+	url = git@github.com:JoshDanielWalker/Mars-Core.git
+	branch = master
